@@ -2,7 +2,7 @@
 
 /*  This file was provided as part of a weekly web design tutorial series.
 	Sign-up for our newsletter, at http://codifydesign.com, to be notified
-	about each new episode of CSS Shorts  
+	about each new episode of CSS Shorts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans+Condensed:300');
@@ -22,7 +22,7 @@ h1 {
 	font-weight: normal;
 	line-height: 1em;
 	color: #fff;
-	margin: 0 0 10px 0;	
+	margin: 0 0 10px 0;
 }
 
 p {
@@ -35,7 +35,8 @@ article {
 
 section {
 	border: 1px solid #fff;
-	background-color: rgba(255,255,255,.2);
+  background-color: rgba(255,255,255,.2);
+  display: table;
 }
 
 section h2 {
