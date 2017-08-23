@@ -70,6 +70,10 @@ section > div div:first-child {
   border-left: none;
 }
 
+section > div:last-child div {
+  border-bottom: none;
+}
+
 @media screen and (max-width: 600px) {
 
 
