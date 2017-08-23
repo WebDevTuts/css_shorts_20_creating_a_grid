@@ -53,7 +53,10 @@ section p {
 	line-height: 1.15em;
 }
 
-
+section > div {
+  text-align: center;
+  display: table-row;
+}
 
 
 
