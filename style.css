@@ -66,6 +66,10 @@ section > div div {
   border-bottom: 1px solid #fff;
 }
 
+section > div div:first-child {
+  border-left: none;
+}
+
 @media screen and (max-width: 600px) {
 
 
